@@ -6,7 +6,7 @@ En los siguientes párrafos se dará una explicación de lo que hace cada archiv
 ## Activdad1
 Este programa crea una variable de tipo entero y un puntero que almacena su dirección de memoria. Muestra la dirección de memoria de la variable y modifica su valor indirectamente mediante el puntero.  
 Esta modificación indirecta es posible porque el puntero apunta a la dirección de memoria de la variable. Al desreferenciar el puntero con el operador *, se puede acceder al valor almacenado en esa dirección y modificarlo.
-Nota: "{**}" significa acceder al valor de dicha dirección a la que esta apuntando el puntero.
+Nota: "{*}" significa acceder al valor de dicha dirección a la que esta apuntando el puntero.
 
 ## Actividad2
 Este programa declara un puntero el cual apunta a una variable,
