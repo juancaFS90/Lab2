@@ -11,7 +11,7 @@ Nota: "{**}" significa acceder al valor de dicha dirección a la que esta apunta
 ## Actividad2
 Este programa declara un puntero el cual apunta a una variable,
 Con este puntero se modificara el valor de la variable utilizando la des referencia, luego se crea una referencia a la variable, dicha referencia se usa para volver a cambiar el valor de la variable.
-La diferencia principal entre el puntero "{*}" y la referencia "&" es: el puntero almacena como tal una dirección de memoria y requiere ser des referenciado para poder cambiar el valor que se encuentra en la 
+La diferencia principal entre el puntero "{**}" y la referencia "&" es: el puntero almacena como tal una dirección de memoria y requiere ser des referenciado para poder cambiar el valor que se encuentra en la 
 dirección a la que apunta mientras que la referencia seria mas como un alias para la variable el cual permite acceder y cambiar el valor de la variable.
 
 ## Actividad3
