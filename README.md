@@ -17,7 +17,7 @@ dirección a la que apunta mientras que la referencia seria mas como un alias pa
 ## Actividad3
 
 Este código crea un puntero para recorrer un arreglo de números enteros y modificar sus valores a través de dicho puntero. Este proceso se realiza avanzando el puntero una posición cada vez.
-Esto es posible porque en C++ los elementos de un arreglo se almacenan de forma contigua en memoria. Por lo tanto, si el puntero apunta al primer elemento del arreglo, se puede utilizar aritmética de punteros para acceder a las siguientes posiciones. Por ejemplo, puntero + 1 permite acceder al siguiente elemento y puntero + 2 al elemento ubicado dos posiciones después.
+Esto es posible porque en C++ los elementos de un arreglo se almacenan de forma contigua en memoria. Por lo tanto, si el puntero apunta al primer elemento del arreglo, se puede operaciones matematicas para acceder a las siguientes posiciones. Por ejemplo, puntero + 1 permite acceder al siguiente elemento y puntero + 2 al elemento ubicado dos posiciones después.
 Es por esto que el ciclo for puede avanzar el puntero una posición en cada iteración.
 Nota: No solamente se puede sumar 1 al puntero; también se pueden utilizar otros desplazamientos. Sin embargo, se debe tener cuidado de no intentar acceder fuera de los límites del arreglo, ya que esto produce comportamiento indefinido.
 
